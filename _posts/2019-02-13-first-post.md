@@ -1,7 +1,4 @@
 ---
-
----
-
 title: "github.io 블로그 시작하기"
 
 excerpt: "기존 블로그 이전"
@@ -14,8 +11,7 @@ tags:
 
 -Blog
 
-last_modified_at:2019-02-13T08:06:00-05:00
-
+last_modified_at: 2019-02-13T08:06:00-05:00
 ---
 
 GIt blog 테마및 저장소 이전 
