@@ -1,6 +1,6 @@
 ---
-title:  "Jekyll, YFM"
-excerpt: "블로그의 기본 동작과 설정."
+title:  "Dev TiP..."
+excerpt: "개발과 관련된 와닿는 글들."
 
 categories:
   - Blog
@@ -8,7 +8,7 @@ tags:
   - Blog 
   - Daily Dev
   - Tip
-last_modified_at: 2019-05-10T08:06:00-07:00
+last_modified_at: 2019-03-14T08:06:00-07:00
 ---
 
 ### **Dev TIP 70...**
