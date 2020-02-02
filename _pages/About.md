@@ -35,7 +35,6 @@ layout: single
 
 - C, C++ (Intermediate)
 - Java (Intermediate)
-- Shell Script (Intermediate)
 -  C#, XML, HTML (Beginner)
 
 ######  Computer Science & Engineering
@@ -53,6 +52,6 @@ layout: single
 - Ubuntu  (Intermediate)
 - Software Engineering
     - TDD
-    - Scrum, Agile
+    - Agile
 - DevOps
     - Git 
