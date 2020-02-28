@@ -26,7 +26,9 @@ layout: single
 
 9. [백준2798- 블랙잭(`bruteforce`)]([https://github.com/kore207/Play_ground/tree/master/OJ/OJ2798(%EB%B8%94%EB%9E%99%EC%9E%AD)_BruteForce](https://github.com/kore207/Play_ground/tree/master/OJ/OJ2798(블랙잭)_BruteForce)
 
-10. [백준2231- 분해합(`bruteforce`)]([https://github.com/kore207/Play_ground/tree/master/OJ/OJ2231(%EB%B6%84%ED%95%B4%ED%95%A9)_BruteForce](https://github.com/kore207/Play_ground/tree/master/OJ/OJ2231(분해합)_BruteForce))
+10. [백준2231- 분해합(`bruteforce`)]([https://github.com/kore207/Play_ground/tree/master/OJ/OJ2231(%EB%B6%84%ED%95%B4%ED%95%A9)_BruteForce](https://github.com/kore207/Play_ground/tree/master/OJ/OJ2231(분해합)_BruteForce)
+
+    
 
     
 
