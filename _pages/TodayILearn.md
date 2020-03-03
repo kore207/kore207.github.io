@@ -28,7 +28,7 @@ layout: single
 
 10. [백준2231- 분해합(`bruteforce`)]([https://github.com/kore207/Play_ground/tree/master/OJ/OJ2231(%EB%B6%84%ED%95%B4%ED%95%A9)_BruteForce](https://github.com/kore207/Play_ground/tree/master/OJ/OJ2231(분해합)_BruteForce)
 
-    
+11. [백준1978-소수찾기]([https://github.com/kore207/Play_ground/tree/master/OJ/OJ1978(%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)](https://github.com/kore207/Play_ground/tree/master/OJ/OJ1978(소수찾기))
 
     
 
