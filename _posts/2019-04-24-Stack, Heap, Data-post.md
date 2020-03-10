@@ -26,7 +26,7 @@ last_modified_at: 2019-04-24T08:06:00-07:00
 
 할당 용도 : 프로그램 실행 시 필요한 메모리 공간(지역변수, 전역변수 선언을 위해) 할당
 
-![memoryimg](https://github.com/kore207/kore207.github.io/blob/master/assets/images/memoryImage.png)
+![memoryimg](/assets/images/memoryImage.png)
 
 **데이터(Data) 영역**
 
@@ -54,7 +54,7 @@ int main() {
 
 (전역변수가 프로그램이 종료될 때 까지 존재하는 이유)
 
-![memoryimg](https://github.com/kore207/kore207.github.io/blob/master/assets/images/memoryImage2.png)
+![memoryimg](/assets/images/memoryImage2.png)
 
 **스택(Stack) 영역** 
 
@@ -102,7 +102,7 @@ void fct2(int e) {
 
 스택영역은 그 이름그대로 스택의 성질을 띄고있다.
 
-![memoryimg](https://github.com/kore207/kore207.github.io/blob/master/assets/images/memoryImage3.png)
+![memoryimg](/assets/images/memoryImage3.png)
 
 **힙(Heap) 영역**
 
