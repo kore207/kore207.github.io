@@ -1,14 +1,12 @@
 ---
 title:  "memcmp를 통한 구조체 데이터의 변경 확인"
-excerpt: "[기"
+excerpt: "구조체의 비교"
 
 categories:
   - Embedded  
   - C/CPP
 last_modified_at: 2019-04-12T08:06:00-07:00
 ---
-
-> App에서 설정화면에서 값이 변경됐는지 Check 할때...
 
 > (App개발시) 설정화면에서 값이 변경됐는지 Check 할때...
 
