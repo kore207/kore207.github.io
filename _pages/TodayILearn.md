@@ -30,6 +30,8 @@ layout: single
 
 11. [백준1978-소수찾기]([https://github.com/kore207/Play_ground/tree/master/OJ/OJ1978(%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)](https://github.com/kore207/Play_ground/tree/master/OJ/OJ1978(소수찾기))
 
+12. [백준15649-N과M(Backtracking)](https://github.com/kore207/algorithm/blob/master/BackTracking/Backtracking.md)
+
     
 
 ### Data Structure
@@ -42,7 +44,6 @@ layout: single
 * [Tree](https://github.com/kore207/data_structure/blob/master/Tree/Tree.md)
 * Hash 
 * Graph
-* 
 
 ### Framework
 
